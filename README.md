@@ -24,4 +24,4 @@ The most important finding to me is the difference between Republicans and Democ
 ## Lehigh Enrollment
 ![Lehigh Enrollment](https://github.com/mfeldman24/Canva/blob/master/Student%20Enrollment%20@%20Lehigh.png?raw=true)
 This is an infographic of enrollment statistics at Lehigh with data provided by the Office of Institutional Research & Strategic Analytics. This shows the distibution of students enrolled to Lehigh in 2019 based on what students are studying. Data from: https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf
-![a picture of me](https://github.com/mfeldman24/mfeldman24.github.io/blob/master/IMG_4036.JPG?raw=true)
+![a picture of me](https://github.com/mfeldman24/mfeldman24.github.io/blob/master/Image-1.jpg?raw=true)
